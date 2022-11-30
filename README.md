@@ -1,6 +1,4 @@
-# simple-demo
+# simple Example Repository
+
+This is just a simple example repository for training purposes.
 UDEMY: Jason Taylor Git 4 Windows.
-
-Pues hay la llevo! (Yo creo)
-
-Va una nueva linea
